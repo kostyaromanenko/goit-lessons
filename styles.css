@@ -1,0 +1,21 @@
+*{
+margin: 0;
+padding: 0;
+}
+/* для того, чтобы CSS сам не ставил свои значения margin и padding */
+.container{
+width: 1140px;
+margin: 0 auto;
+}
+.site-body{
+background-color: rgb(255, 2, 2);
+}
+.site-header{
+height: 770px;
+background-image: url(./img/Background.jpg);
+padding-top: 40px;
+color: #222222;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
