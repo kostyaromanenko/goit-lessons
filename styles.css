@@ -19,3 +19,20 @@ background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
 }
+.site-title{
+    font-family: 'Big Shoulders Text', cursive;
+    display: inline-block;
+   color: rgb(255, 255, 255);  
+}
+.site-head{
+    font-family: 'Big Shoulders Text', cursive;
+    display: inline-block;
+}
+.navigation-list{
+display: inline-block;
+list-style: none;
+}
+.navigation-list__item{
+display: inline-block;
+list-style: none;
+}
