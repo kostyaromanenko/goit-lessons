@@ -1,0 +1,72 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+ul{
+list-style: none;
+}
+a{
+text-decoration: none;
+}
+.container{
+width: 900px;
+margin: 0 auto;
+}
+.nav-item{
+display: inline-block;
+margin-right: 110px;
+font-size: 14px;
+line-height: 24px;
+font-family: "Playfair Display";
+font-weight: 400;
+text-align: center;
+
+
+}
+.nav-item:nth-child(4) {
+    margin-right: 0px;
+}
+.nav-link{
+    color: #777777;
+   
+    
+}
+.nav-link:hover{
+color: #03a9f3;
+}
+
+.main-list{
+    margin-bottom: 46px;
+}
+.main-list__item{
+width: 420px;
+height: 500px;
+margin-right: 50px;
+display: inline-block;
+}
+.main-list__item:nth-child(even) {
+margin-right: 0;
+}
+.article-type{
+    font-size: 14px;
+    color: #898989;
+    font-family: "Ubuntu";
+    font-weight: 300;
+}
+.nav-list{
+text-align: center;
+margin: 100px;
+}
+.main-btn{
+margin: 0 auto;
+display: block;
+width: 160px;
+height: 58px;
+background: transparent;
+border: solid #626262 1px;
+font-size: 20px;
+line-height: 24px;
+font-family: "Playfair Display";
+font-weight: 400;
+margin-bottom: 46px;
+}
